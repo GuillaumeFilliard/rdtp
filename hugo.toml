@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Raphaëlle de Tappie'
-theme='/tmp/workspace/hugo-workspace/themes/XMag'
-#theme='/tmp/workspace/hugo-workspace/themes/newsroom'
+theme='XMag'
+#theme='newsroom'
