@@ -1,5 +1,5 @@
 ---
-title: "Nous avons testé les thermes de Saint-Gervais Mont-Blanc et le pouvoir guérisseur de son eau millénaire - Top Santé"
+title: "Nous avons testé les thermes de Saint-Gervais Mont-Blanc et le pouvoir guérisseur de son eau millénaire"
 author: Raphaëlle de Tappie
 journal: Top Santé
 date: '2015-05-07'
